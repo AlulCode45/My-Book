@@ -1,0 +1,38 @@
+Materi Yang di siapkan :
+1. Kata pengantar
+2. Introduce dan Latar belakang
+3. Pekerjaan 
+4. Materi yang akan di bahas sesuai judul dibawah
+5. Keuntungan lainnya
+6. Biaya Promosi
+
+Judul Websinar : 
+1. Pentingnya website untuk bisnis UMKM
+2. Pentingnya website untuk segala kebutuhan pekerjaan "Tidak perlu kertas lagi"
+3. Menggunakan Website di mana aja "BAHKAN SAMBIL REBAHAN PUN BISA"
+4. Pentingnya website dalam kesuksesan website anda
+5. Grafik analitik bisnis lebih penting menggunakan website
+
+point yang harus di revisi :
+
+1. Website tidak relevant jika ingin meenggunkan real time
+2. Keuntungan website bisa di akses bebarengan
+3. Tidak bisa selalu fast respon seperti AlulGans di karenakan sinyal mu jelek
+
+
+Hal yang akan di buat : 
+
+1. Membuat alogritma tentang apa yang aku pikirkan tentang system
+2. Admin dashboard + Company Profile + Online Store + Point Of Sell + Membership // note Membership terpisah
+	# Admin dashboard + Company Profile
+	# Company Profile
+	# Point Of Sell
+	# Online Store
+	# Online Store + Point Of Sell
+	# Membership + Point Of Sell
+
+Promosi yang disiapkan :
+1. Websinar / Sosialisasi
+2. Kunjungan UMKM
+3. Survey online
+4. Brosur gambar di sebar di medsos

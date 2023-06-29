@@ -1,0 +1,82 @@
+
+
+
+[ Default Order ]
+
+Halaman depan ( Template ):
+	- Pencarian Mobil & Supir / Tanpa supir
+	- Mobil tersedia
+	- Lokasi dan Waktu
+	- Komentar Pengunjung
+	- Testimoni
+	- Sistem Pembayaran 
+	- Dan lain-lain
+Dashboard ( Admin ) :
+	- Dashboard
+		# Jumlah Data Mobil
+		# Jumlah Data Pemesan
+		# Jumlah Data Pesanan
+		# Jumlah Akun
+		# Statistik 
+	- Data Merk
+	- Data Mobil
+	- Data Supir
+	- Data Pemesan / Orang yang memesan
+	- Data Perjalanan / Kota Asal - Tujuan
+	- Data Pesanan / Pesanan User ( Without Payment GateWay )
+	- Manage Users
+
+Dashboard ( Pegawai ) :
+	- Dashboard
+		# Jumlah Data Mobil
+		# Jumlah Data Pemesan
+		# Jumlah Data Pesanan
+		# Jumlah Akun
+		# Statistik 
+	- Data Merk
+	- Data Mobil
+	- Data Supir
+	- Data Pemesan / Orang yang memesan
+	- Data Perjalanan / Kota Asal - Tujuan
+	- Data Pesanan / Pesanan User ( Without Payment GateWay )
+
+
+[ Custom Order ]
+
+Halaman depan ( Design Manual Sesuai Kebutuhan ):
+	- Pencarian Mobil & Supir / Tanpa supir
+	- Mobil tersedia
+	- Lokasi dan Waktu
+	- Komentar Pengunjung
+	- Testimoni
+	- Sistem Pembayaran 
+	- Dan lain-lain
+Dashboard ( Admin ) :
+	- Dashboard
+		# Jumlah Data Mobil
+		# Jumlah Data Pemesan
+		# Jumlah Data Pesanan
+		# Jumlah Akun
+		# Statistik 
+	- Data Merk
+	- Data Mobil
+	- Data Supir
+	- Data Pemesan / Orang yang memesan
+	- Data Perjalanan / Kota Asal - Tujuan
+	- Data Pesanan / Pesanan User ( With PaymentGateway )
+	- Manage Users
+	- Laporan
+
+Dashboard ( Pegawai ) :
+	- Dashboard
+		# Jumlah Data Mobil
+		# Jumlah Data Pemesan
+		# Jumlah Data Pesanan
+		# Jumlah Akun
+		# Statistik 
+	- Data Merk
+	- Data Mobil
+	- Data Supir
+	- Data Pemesan / Orang yang memesan
+	- Data Perjalanan / Kota Asal - Tujuan
+	- Data Pesanan / Pesanan User ( With PaymentGateway )
